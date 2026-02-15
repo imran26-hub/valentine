@@ -1,0 +1,160 @@
+{
+  "names": {
+    "sender": "Imran",
+    "receiver": "Suchi 💗"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Today is Our Valentine’s Day! 🤭?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 Aww… 🥺!!! 💖",
+    "successSubtitle": "Nee azhaghu Suchi ❤️😘",
+    "giftsTitle": "💝 My Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Patootie",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/san.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/san.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/im1.jpeg",
+      "caption": "You taught me what love feels like"
+    },
+    {
+      "image": "/src/assets/couple_photo/im2.jpeg", 
+      "caption": "We ended, but the love was real"
+    },
+    {
+      "image": "/src/assets/couple_photo/im3.jpeg",
+      "caption": "This picture holds a love that once felt like forever"
+    },
+    {
+      "image": "/src/assets/couple_photo/im4.jpeg",
+      "caption": "We were happy here. And that will always matter"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+    "id": 1,
+    "title": "Idhazin Oram ❤️",
+    "duration": "3:37",
+    "album": "Back to memories",
+    "artist": "This song reminds me of how softly you steal my heart… without even trying 🥺💗",
+    "cover": "/src/assets/album-covers/3_idazhin.jpeg",
+    "audio": "/src/assets/songs/idhazhin_oram.mpeg"
+  },
+  {
+    "id": 2,
+    "title": "Nee Partha Vizhigal Suchiyaee🫠👀",
+    "duration": "4:59",
+    "album": "Those eye contact 👀✨",
+    "artist": "Your eyes talk too much… and my heart listens too fast 😳💕",
+    "cover": "/src/assets/album-covers/3_nee_partha.jpeg",
+    "audio": "/src/assets/songs/Nee_partha_vizhigal.mpeg"
+  },
+  {
+    "id": 3,
+    "title": "Enna Solla 🤍✨",
+    "duration": "04:51",
+    "album": "Your Fav one vro 💫",
+    "artist": "Every lyric feels like something I wish I could whisper to you 🤭💞",
+    "cover": "/src/assets/album-covers/enna_solla.jpeg",
+    "audio": "/src/assets/songs/Enna_solla.mpeg"
+  },
+  {
+    "id": 4,
+    "title": "Ohh Ohh 😮‍💨💞",
+    "duration": "3:45",
+    "album": "Sollaatha Asaiyellam IYKYK 😉",
+    "artist": "This gives the same vibe as you… cute, unexpected, and stuck in my head all day 😌💗",
+    "cover": "/src/assets/album-covers/Ohh_ohh.jpeg",
+    "audio": "/src/assets/songs/ohh_ohh.mpeg"
+  },
+  {
+    "id": 5,
+    "title": "Aathadi Aathadi 💃🔥",
+    "duration": "4:08",
+    "album": "Anagen",
+    "artist": "You and this song share one thing… both instantly make my mood better 😍🌸",
+    "cover": "/src/assets/album-covers/Anagen.jpeg",
+    "audio": "/src/assets/songs/Aathadi_aathadi.mpeg"
+  }
+  ],
+  "letter": {
+    "title": "My Dearest Suchi ponnu 🤍,",
+    "content": [
+      "Happy valentine's day nga 💐",
+      "Today is our Valentine’s Day… 🤭❤️ and even if we’re not in a relationship now, I just want to say something honestly 💌 That day, I chose you with a pure heart 🤍 And till today, whenever I think about it, I don’t regret it at all 💞 Life may have changed, situations may have changed… 🌙 but the respect, care, and that soft corner I have for you? That never changed 🤍✨ Maybe we don’t have a label now… but some connections don’t fade that easily 💫 And no matter what, you’ll always be someone special to me ❤️🌸",
+      "No matter what we are right now, I’m thankful that we still talk 🤍 You still matter to me, and that hasn’t changed 💫 That day I chose you with my heart ❤️ Today, even without labels, I still respect what we shared and what we have now 🌸 I just want you to be happy… truly happy ✨ And I hope you achieve everything you’ve ever dreamed of 👩🏻‍⚕️🌟 You deserve all the good things in this world 🤍 I’ll always silently pray for your success ✨."
+    ],
+    "signature": "Forever yours,\nImran"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
