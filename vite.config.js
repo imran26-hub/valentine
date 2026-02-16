@@ -29,8 +29,11 @@ export default defineConfig({
     include: ['react', 'react-dom', 'framer-motion']
   },
   server: {
-    headers: {
-      'Cache-Control': 'no-cache, no-store, must-revalidate'
-    }
+  host: true,
+  allowedHosts: ['all', 'confirmed-wheel-streets-consisting.trycloudflare.com', 'plate-tim-scroll-priest.trycloudflare.com'],
+  headers: {
+    'Cache-Control': 'no-cache, no-store, must-revalidate'
+  }
+
   }
 })
