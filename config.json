@@ -25,66 +25,66 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/san.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/san.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/assets/san.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/san.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "/assets/gift/gift1.jpg",
+    "gift2": "/assets/gift/gift2.jpg", 
+    "gift3": "/assets/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/im1.jpeg",
+      "image": "/assets/couple_photo/im1.jpeg",
       "caption": "You taught me what love feels like"
     },
     {
-      "image": "/src/assets/couple_photo/im2.jpeg", 
+      "image": "/assets/couple_photo/im2.jpeg", 
       "caption": "We ended, but the love was real"
     },
     {
-      "image": "/src/assets/couple_photo/im3.jpeg",
+      "image": "/assets/couple_photo/im3.jpeg",
       "caption": "This picture holds a love that once felt like forever"
     },
     {
-      "image": "/src/assets/couple_photo/im4.jpeg",
+      "image": "/assets/couple_photo/im4.jpeg",
       "caption": "We were happy here. And that will always matter"
     }
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/assets/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "/assets/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/assets/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -95,8 +95,8 @@
     "duration": "3:37",
     "album": "Back to memories",
     "artist": "This song reminds me of how softly you steal my heart… without even trying 🥺💗",
-    "cover": "/src/assets/album-covers/3_idazhin.jpeg",
-    "audio": "/src/assets/songs/idhazhin_oram.mpeg"
+    "cover": "/assets/album-covers/3_idazhin.jpeg",
+    "audio": "/assets/songs/idhazhin_oram.mpeg"
   },
   {
     "id": 2,
@@ -104,8 +104,8 @@
     "duration": "4:59",
     "album": "Those eye contact 👀✨",
     "artist": "Your eyes talk too much… and my heart listens too fast 😳💕",
-    "cover": "/src/assets/album-covers/3_nee_partha.jpeg",
-    "audio": "/src/assets/songs/Nee_partha_vizhigal.mpeg"
+    "cover": "/assets/album-covers/3_nee_partha.jpeg",
+    "audio": "/assets/songs/Nee_partha_vizhigal.mpeg"
   },
   {
     "id": 3,
@@ -113,8 +113,8 @@
     "duration": "04:51",
     "album": "Your Fav one vro 💫",
     "artist": "Every lyric feels like something I wish I could whisper to you 🤭💞",
-    "cover": "/src/assets/album-covers/enna_solla.jpeg",
-    "audio": "/src/assets/songs/Enna_solla.mpeg"
+    "cover": "/assets/album-covers/enna_solla.jpeg",
+    "audio": "/assets/songs/Enna_solla.mpeg"
   },
   {
     "id": 4,
@@ -122,8 +122,8 @@
     "duration": "3:45",
     "album": "Sollaatha Asaiyellam IYKYK 😉",
     "artist": "This gives the same vibe as you… cute, unexpected, and stuck in my head all day 😌💗",
-    "cover": "/src/assets/album-covers/Ohh_ohh.jpeg",
-    "audio": "/src/assets/songs/ohh_ohh.mpeg"
+    "cover": "/assets/album-covers/Ohh_ohh.jpeg",
+    "audio": "/assets/songs/ohh_ohh.mpeg"
   },
   {
     "id": 5,
@@ -131,8 +131,8 @@
     "duration": "4:08",
     "album": "Anagen",
     "artist": "You and this song share one thing… both instantly make my mood better 😍🌸",
-    "cover": "/src/assets/album-covers/Anagen.jpeg",
-    "audio": "/src/assets/songs/Aathadi_aathadi.mpeg"
+    "cover": "/assets/album-covers/Anagen.jpeg",
+    "audio": "/assets/songs/Aathadi_aathadi.mpeg"
   }
   ],
   "letter": {
