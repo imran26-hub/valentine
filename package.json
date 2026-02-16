@@ -5,11 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/optimize-images.js && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "optimize-images": "node scripts/optimize-images.js"
   },
   "dependencies": {
+    "@rolldown/binding-win32-x64-msvc": "^1.0.0-rc.4",
     "bootstrap": "^5.3.0",
     "framer-motion": "^12.34.0",
     "react": "^19.2.0",
@@ -28,3 +30,4 @@
     "vite": "^7.3.1"
   }
 }
+
